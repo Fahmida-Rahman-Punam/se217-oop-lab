@@ -1,4 +1,7 @@
-Java practice programs for SE 217 OOP Lab
-name:Fahmida Rahman Punam
-ID : 252-35-311
-section : G2
+# SE 217 OOP Lab
+
+Java practice programs for SE 217 OOP Lab (Week 02).
+
+- **Name:** Fahmida Rahman Punam
+- **Student ID:** 252-35-311
+- **Section:** G2
